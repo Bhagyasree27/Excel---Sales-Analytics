@@ -28,6 +28,15 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
+## Tools used:
+- [x] SQL Server - To extract Data and for Data Analysis
+- [x] Excel - Data Cleansing & creating reports
+
+## Data cleaning/Preperation:
+- [x] In the initial data preperation phase, we performed the following tasks:
+- [x] Data loading and Inspection.
+- [x] Handling missing/null values.
+- [x] Data cleaning and formatting.
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
